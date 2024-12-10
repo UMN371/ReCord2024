@@ -1,0 +1,19 @@
+Institution or Study Abbreviation,Type,Case Controls,Institution or Study,Existing Case Samples,Anticipated Case Samples,Case Samples,Control Samples,Parent Samples,All Samples,Cases Needed to Reach Existing + Anticipated Case Samples,Genotyped or Analyzed in UMN,Sample Status,Clinical Data Status,Sample Types,Received any samples
+CHOM,CONTRIBUTING INSTITUTIONS,Cases,Children's Hospital of Michigan,0,0,0,0,0,0,0,Yes ,Collecting sample list,To request,No samples yet,No samples yet
+E15,CONTRIBUTING STUDIES,Cases,Children's Cancer Group E-15,40,0,48,0,0,48,0,Yes ,Completed,Completed,Extracted,Completed
+SMILES,CONTRIBUTING STUDIES,Cases & Controls,Michigan BioTrust (aka SMILES),72,0,215,494,0,709,0,Yes ,Completed,Completed,Extracted,Completed
+1000 GEN,CONTROLS,Controls,1000 Genomes Project,0,0,0,62,0,62,0,Yes ,Completed,In progress,Extracted,Completed
+CCLS,OTHER CONTRIBUTING STUDIES,Cases & Controls,California Childhood Leukemia Study,0,0,0,0,0,0,0,No,Not applicable,Not applicable,Not applicable,Not applicable
+CCRLP,OTHER CONTRIBUTING STUDIES,Cases & Controls,Childhood Cancer Record Linkage Project,0,0,0,0,0,0,0,No,Not applicable,Not applicable,Not applicable,Not applicable
+WashU,CONTRIBUTING INSTITUTIONS,Cases,Washington University,8,10,0,0,0,0,18,Yes ,On hold,On hold,On hold,On hold
+COG and PEC,CONTRIBUTING INSTITUTIONS,Cases,Children's Oncology Group and Project:EveryChild,468,376,715,0,0,715,129,Yes ,Samples in progress,In progress,Extracted,Some Samples Received
+BCM/UTSW,CONTRIBUTING INSTITUTIONS,Cases & Controls,Baylor College of Medicine/University of Texas Southwestern Medical Center,74,50,72,90,36,198,52,Yes ,Samples in progress,To request,Extracted,Some Samples Received
+VUMC ,CONTRIBUTING INSTITUTIONS,Cases,Vanderbilt University Medical Center,48,10,0,0,0,0,58,Yes ,Samples in progress,To request,No samples yet,No samples yet
+CHOA,CONTRIBUTING INSTITUTIONS,Cases,Children's Healthcare of Atlanta-Emory University,35,75,43,0,0,43,67,Yes ,Samples in progress,To request,Unextracted,Some Samples Received
+CHOP,CONTRIBUTING INSTITUTIONS,Cases,Children's Hospital of Philadelphia,15,15,25,0,0,25,5,Yes ,Samples in progress,To request,Unextracted and extracted,Some Samples Received
+UAB,CONTRIBUTING INSTITUTIONS,Cases,University of Alabama Birmingham,8,15,23,0,0,23,0,Yes ,Samples in progress,In progress,Extracted,Some Samples Received
+MSK,CONTRIBUTING INSTITUTIONS,Cases,Memorial Sloan Kettering Cancer Center,40,40,10,0,0,10,70,Yes ,Samples in progress,To request,Extracted,Some Samples Received
+RP/DFCI,CONTRIBUTING INSTITUTIONS,Cases,Roswell Park/Dana Farber Cancer Institute,0,0,16,0,0,16,0,Yes ,Samples in progress,To request,Extracted,Some Samples Received
+DCFI 05-001,CONTROLS,Controls,Dana Farber Cancer Institute 05-001 Cohort,0,0,0,0,0,0,0,Yes ,Samples in progress,To request,No samples yet,No samples yet
+SJLIFE,CONTROLS,Controls,St. Jude Life Study,0,0,0,0,0,0,0,Yes ,Samples in progress,To request,No samples yet,No samples yet
+TARGET,CONTROLS,Controls,Therapeutically Applicable Research to Generate Effective Treatments,0,0,0,0,0,0,0,Yes ,Samples in progress,To request,No samples yet,No samples yet
